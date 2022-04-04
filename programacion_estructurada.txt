@@ -1,0 +1,163 @@
+1.
+¿Cuáles de las siguientes son etapas de desarrollo de software?
+
+Análisis, Diseño, Programación
+
+2.
+¿Qué función es la primera que se ejecuta al inicio de cada programa?
+
+main()
+
+3.
+¿Qué es un tipo de dato?
+
+La manera en la que se representa y almacena datos en memoria
+
+4.
+¿Qué es una variable?
+
+Un espacio en memoria reservado para un tipo de dato
+
+5.
+¿Cuáles de los siguientes son ejemplos de tipos de datos?
+
+Int, char, bool, double
+
+6.
+¿Cuál de las siguientes funciones sirve para entrada y salida de datos?
+
+printf() y scanf()
+
+7.
+Para la variable declarada: int numeroEntero; ¿Cuál de las siguientes opciones es asignada correctamente su valor?
+
+numeroEntero = 5;
+
+8.
+¿Qué nos regresa el módulo?
+
+Residuo
+
+9.
+¿Cuál es la diferencia entre = (Un igual) y == (Dos iguales)?
+
+Un igual es de asignación y dos son de comparación
+
+10.
+¿Qué sucede si la condición de un if no se cumple?
+
+Se salta el bloque de la condición
+
+11.
+¿Qué es un loop/bucle?
+
+Estructura que permite repetir un bloque de instrucciones
+
+12.
+¿Qué pasa si la condición de un while nunca se cumple?
+
+Descartar alternativa: Termina el bucle
+
+13.
+En un do while, las instrucciones se ejecutan ¿Antes o después de la condición?
+
+Antes
+
+14.
+¿Para qué se utiliza el índice en un arreglo?
+
+Para indicar la posición dentro del arreglo
+
+15.
+¿Es posible que un arreglo tenga más de una dimensión?
+
+Verdadero
+
+16.
+¿Para qué me sirve utilizar un for con un arreglo?
+
+Para recorrer el arreglo
+
+17.
+¿Cuál es la librería que nos permite hacer operaciones con cadenas de caracteres?
+
+Descartar alternativa: <stdio.h>
+
+18.
+¿Para qué nos sirve una función?
+
+Para dividir y encapsular el código de manera modular
+
+19.
+¿Qué es una variable global?
+
+Una variable que puede ser utilizada en cualquier función
+
+20.
+¿Puedo utilizar una variable local en cualquier función de mi código?
+
+Falso
+
+21.
+Una función recursiva termina por sí sola y no necesita una condición para terminar:
+
+Falso
+
+22.
+¿Cuál es la función de un apuntador?
+
+Descartar alternativa: Crear una librería
+
+23.
+¿Cuál es operador para conseguir la dirección de una variable?
+
+Descartar alternativa: Asterisco (*)
+
+24.
+¿Qué función sirve para escribir información en archivos?
+
+fwrite();
+
+25.
+Si he creado una librería y la tengo en la misma carpeta del código, ¿Cómo la incluyo con include?
+
+Descartar alternativa: #include <miLibreria.h>
+
+26.
+¿Cuál es la estructura correcta para un switch?
+
+int main()
+{
+int miVariable = 3;
+switch(miVariable)
+	{
+	case 1:
+	printf(“Mi numero es: %i”, miVariable);
+		break;
+
+	case 2:
+	printf(“Mi numero es: %i”, miVariable);
+		break;
+
+	case 3:
+  	printf(“Mi numero es: %i”, miVariable);
+		break;
+	}
+}
+27.
+¿Cómo escribo un for infinito?
+
+Descartar alternativa: for(int i = 0; i < -999; i++)
+                      {
+                        //Instrucciones
+                      }
+28.
+¿Cual de los siguientes ejemplos es correcto para un for anidado?
+
+for (int i= 0; i<5;i++)
+{
+	for (int j = 0; j<5; j++)
+		{
+		//Instrucciones
+ 		}
+} 
