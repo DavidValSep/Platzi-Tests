@@ -1,0 +1,87 @@
+1.
+¿En qué gestor de contenido funciona WooCommerce?
+WordPress
+2.
+¿Cuál de las siguientes opciones es una buena práctica antes de instalar WordPress?
+Omitir esta alternativa: Usar nombres de dominio alfanuméricos.
+3.
+WooComerce es un plugin con licencia paga.
+Falso
+4.
+¿Desde qué parte del administrador de WordPress instalamos WooCommerce?
+Plugins
+5.
+En caso que haya que cambiar la moneda de la tienda a dólares, ¿qué opción elegirías para lograrlo?
+Ajustes/Moneda
+6.
+Si quisieras hacer un checkeo de tu stock, ¿desde qué parte del administrador lo harías?
+Omitir esta alternativa: Productos
+7.
+Solo podemos crear un tipo de producto en la tienda.
+Falso
+8.
+En el caso que tuvieras que vender un video para descargar ¿qué tipo de producto usarías?
+Simple
+9.
+PlatziCommerce vende remeras y zapatos, pero por ahora deben crear un producto diferente por cada talla, color o variante disponible en su tienda. ¿Cómo lograrías centralizar todas estas opciones en un mismo producto y permitirle al cliente personalizar su pedido?
+Crearía atributos para generar variaciones en un producto variable.
+10.
+¿Cuál de las siguientes opciones es una buen ejemplo de producto digital?
+Ilustraciones
+11.
+PlatziCommerse va a ampliar y comenzará a vender productos electrónicos ¿Cómo podemos mejorar el uso de nuestros filtros?
+Utilizando categorías jerarquizadas.
+12.
+Acabas de crear tu tienda online y tienes que cargar los 250 productos diferentes de tu catálogo ¿cuál sería la forma más sencilla de hacerlo?
+Utilizando la herramienta de importación de WooCommerce.
+13.
+¿Cuál de las siguientes páginas es la que WooCommerce crea para listar los productos cargados?
+Omitir esta alternativa: Carrito
+14.
+¿Cuál herramienta de WordPress sería la más conveniente para maquetar páginas en la tienda?
+Bloques de Gutenberg
+15.
+Solo podemos crear tiendas en WordPress utilizando la plantilla StoreFront.
+Falso
+16.
+En el caso no quisiera usar el diseño por defecto que utiliza StoreFront, ¿desde qué opción de "apariencia" puedo cambiarla?
+Omitir esta alternativa: Temas
+17.
+Luego de que un cliente realice una compra, ¿cuál es el estado que toma el pedido justo antes de convertirse en "Completado?
+Omitir esta alternativa: Pendiente
+18.
+WooComerce nos permite limitar la cantidad de veces que se puede usar un cupón de descuentos.
+Verdadero
+19.
+Hay varios usuarios que no se sienten cómodos dejando sus datos personales en nuestra tienda, ¿en qué sección de ajustes de WooCommerce podemos realizar la configuración para que los usuario puedan eliminar sus datos personales de los pedidos?
+Cuentas y privacidad
+20.
+¿Para qué nos sirven las "clases de envío"?
+Omitir esta alternativa: Para diferenciar los proveedores de logística de envíos.
+21.
+Luego de una compra podemos personalizar un mensaje específico para cada estado que puede tomar el pedido.
+Verdadero
+22.
+¿Cuáles de los siguientes métodos de pago son "offline"?
+Todos las respuestas
+23.
+¿En qué moneda tiene que estar nuestra tienda para funcionar con PayPal?
+Dólar
+24.
+Mercado pago solo funciona en Argentina.
+Falso
+25.
+¿Qué tipos de producto puedes crear con WooCommerce?
+Simple
+Agrupado
+Externo/afiliado
+Variable
+26.
+Al elegir un tema o plantilla, ¿cuál es uno de los aspectos más importantes en los que nos debemos de fijar?
+El soporte/mantenimiento, qué tanto se actualiza.
+27.
+¿Qué tipos de descuentos podemos ofrecer en los cupones?
+En porcentaje.
+Fijo en el carrito.
+Fijo de producto.
+En porcentaje en el envío.
