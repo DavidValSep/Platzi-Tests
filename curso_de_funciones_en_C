@@ -1,0 +1,40 @@
+1.
+¿Para qué podemos utilizar funciones en C?
+Para separar un segmento de código que utilizaremos en varias partes de nuestro programa para simplemente invocarlo cuando lo necesitemos.
+2.
+¿Cuál es la diferencia entre definir una función y declarar una función?
+La declaración solo implica decirle al compilador que existe esa función, declaramos el tipo de dato que retornará y qué atributos tendrá. La definición es la parte donde escribimos la función como tal, incluyendo la funcionalidad de la misma.
+3.
+¿Cuál es la forma general para definir una función en el lenguaje C?
+
+			Esta está incorrecta:
+			
+			function_name(parameter list) 
+			{ 
+					// function's body 
+			}
+4.
+¿De qué forma podemos llamar una función?
+Simplemente tenemos que invocarla con su nombre y pasarle los argumentos que requiera, en caso de ser necesarios.
+
+5.
+¿Qué es el return type en una función de C?
+El tipo de datos que retornará nuestra función.
+6.
+¿Qué es un parámetro en una función de C?
+La información que debemos pasarle a una función para que pueda hacer la tarea necesaria.
+7.
+¿Qué es la biblioteca estándar de C?
+Una serie de bibliotecas que contienen una gran cantidad de funciones de uso común, agrupadas por su tipo. Por ejemplo: math.h es parte de esta.
+8.
+¿Qué funciones comunes podemos encontrar en la biblioteca math.h?
+
+Funciones para cálculos trigonométricos como seno y coseno, pow, y sqrt.
+9.
+¿Qué funciones comunes podemos encontrar en la biblioteca string.h?
+
+Funciones para manejo de cadenas de caracteres como strcat y strcmp.
+10.
+¿Qué funciones comunes podemos encontrar en la biblioteca time.h?
+
+Funciones relacionadas con la hora y fecha en el sistema.
